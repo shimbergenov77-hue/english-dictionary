@@ -206,7 +206,7 @@ export const VOCAB: Vocab[] = [
   { word: "genuine", phonetic: "/ˈdʒenjuɪn/", translation: "подлинный", example: "Is this a genuine ticket?", level: "B1" },
   { word: "goal", phonetic: "/ɡəʊl/", translation: "цель", example: "Set a clear goal.", level: "B1" },
   { word: "grateful", phonetic: "/ˈɡreɪtfl/", translation: "благодарный", example: "I am grateful for your help.", level: "B1" },
-B2 (100 слов)
+// B2 (100 слов)
   { word: "abandon", phonetic: "/əˈbændən/", translation: "покидать", example: "They abandoned the old house.", level: "B2" },
   { word: "abstract", phonetic: "/ˈæbstrækt/", translation: "абстрактный", example: "It is an abstract idea.", level: "B2" },
   { word: "acknowledge", phonetic: "/əkˈnɒlɪdʒ/", translation: "признавать", example: "He acknowledged his mistake.", level: "B2" },
@@ -307,7 +307,7 @@ B2 (100 слов)
   { word: "restrict", phonetic: "/rɪˈstrɪkt/", translation: "ограничивать", example: "Rules restrict parking here.", level: "B2" },
   { word: "reveal", phonetic: "/rɪˈviːl/", translation: "раскрывать", example: "The tests revealed the cause.", level: "B2" },
   { word: "vulnerable", phonetic: "/ˈvʌlnərəbl/", translation: "уязвимый", example: "Young children are vulnerable.", level: "B2" },
-C1 (110 слов)
+// C1 (110 слов)
   { word: "abolish", phonetic: "/əˈbɒlɪʃ/", translation: "отменять", example: "Slavery was abolished long ago.", level: "C1" },
   { word: "accentuate", phonetic: "/əkˈsentʃueɪt/", translation: "подчёркивать", example: "The dress accentuates her height.", level: "C1" },
   { word: "adjacent", phonetic: "/əˈdʒeɪsnt/", translation: "соседний", example: "The shop is adjacent to the bank.", level: "C1" },
@@ -418,7 +418,7 @@ C1 (110 слов)
   { word: "volatile", phonetic: "/ˈvɒlətaɪl/", translation: "неустойчивый", example: "The market is volatile.", level: "C1" },
   { word: "warrant", phonetic: "/ˈwɒrənt/", translation: "оправдывать", example: "The situation warrants action.", level: "C1" },
   { word: "whimsical", phonetic: "/ˈwɪmzɪkl/", translation: "причудливый", example: "It is a whimsical story.", level: "C1" },
-C2 (100 слов)
+// C2 (100 слов)
   { word: "abstruse", phonetic: "/æbˈstruːs/", translation: "малопонятный", example: "It is an abstruse theory.", level: "C2" },
   { word: "acerbic", phonetic: "/əˈsɜːbɪk/", translation: "едкий", example: "He is known for his acerbic humour.", level: "C2" },
   { word: "acrimonious", phonetic: "/ˌækrɪˈməʊniəs/", translation: "желчный, злобный", example: "It was an acrimonious divorce.", level: "C2" },
